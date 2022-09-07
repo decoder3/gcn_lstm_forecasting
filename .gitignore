@@ -1,0 +1,18 @@
+__pycache__/
+Backups/
+blob_storage/
+Cache/
+CachedData/
+CachedExtensions/
+Code Cache/
+Crashpad/
+Data/
+dataset/
+Dictionaries/
+Local Storage/
+logs/
+PM Datasets/
+results/
+Session Storage/
+Spatial plots/
+User/
